@@ -75,5 +75,42 @@
     "DownloadLinkInstall": "https://github.com/ensueno103/plugins/raw/refs/heads/main/p/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/ensueno103/plugins/raw/refs/heads/main/p/Glamourer.zip",
     "DownloadLinkTesting": "https://github.com/ensueno103/plugins/raw/refs/heads/main/p/Glamourer.zip"
+  },
+  {
+    "Author": "Risa", 
+    "Name": "Customize+", 
+    "InternalName": "CustomizePlus", 
+    "AssemblyVersion": "2.0.7.3", 
+    "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.", 
+    "ApplicableVersion": "any", 
+    "Tags": [
+      "Anamnesis", 
+      "Customization", 
+      "Appearance", 
+      "Character", 
+      "Risa"
+    ], 
+    "DalamudApiLevel": 10, 
+    "LoadRequiredState": 0, 
+    "LoadSync": false, 
+    "CanUnloadAsync": false, 
+    "LoadPriority": 0, 
+    "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png", 
+    "Punchline": "Customize your character beyond FFXIV's limitations.", 
+    "AcceptsFeedback": true, 
+    "_isDip17Plugin": true, 
+    "_Dip17Channel": "stable", 
+    "Changelog": "", 
+    "IsHide": false, 
+    "TestingAssemblyVersion": null, 
+    "FeedbackMessage": null, 
+    "FeedbackWebhook": null, 
+    "IsTestingExclusive": false, 
+    "DownloadCount": 57, 
+    "LastUpdate": 1733636568, 
+    "CategoryTags": [], 
+    "DownloadLinkInstall": "https://github.com/ensueno103/plugins/raw/refs/heads/main/p/CustomizePlus.zip", 
+    "DownloadLinkUpdate": "https://github.com/ensueno103/plugins/raw/refs/heads/main/p/CustomizePlus", 
+    "DownloadLinkTesting": "https://github.com/ensueno103/plugins/raw/refs/heads/main/p/CustomizePlus"
   }
 ]
